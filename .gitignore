@@ -1,0 +1,7 @@
+# Compiled executable files
+*.exe
+FileDirectoryManagement
+
+# IDE/editor files
+.vscode/
+.idea/
